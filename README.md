@@ -10,6 +10,7 @@ The system uses a dataset of past shows and features such as age, experience, ra
 The system will then use the decision tree model to make predictions based on user input.
 
 Features:
+
 Data Reading: The project reads in a CSV file containing data about singers and their past shows.
 Data Preprocessing: The project preprocesses the data by mapping categorical values to numerical values.
 Decision Tree Modeling: The project trains a decision tree classification model using Scikit-Learn library.
